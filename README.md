@@ -13,12 +13,12 @@ Assignments:
 percentage of blocks open (while opening the blocks one by one randomly) the system percolates (from top to bottom). This had to be 
 done with time and memory constraints.
 
-2. **Stacks and Queues**: Implement a stack where objects can be put in, but while retrieving them, they come out randomly. There 
+2. **Queues**: Implement a queue where objects can be put in, but while retrieving them, they come out randomly. There 
 were time and memory constraints.
 
-3. **Priority Queues**: Use Priority Queue data structure to find all the sets of 4 points located in a straight line efficiently.
+3. **Collinear**: Use Priority Queue data structure to find all the sets of 4 points located in a straight line efficiently.
 
 4. **8 Puzzle**: Solve the game of 8 Puzzle in the shortest possible moves, find out if the board given is solvable or not.
 
-5. **Find Nearest Point**: Given a point in a 2 dimensional space with many other points, the challenge was to find the 
+5. **kdtree**: Given a point in a 2 dimensional space with many other points, the challenge was to find the 
 nearest point in an efficient way and comparing with the brute force algorithm.
